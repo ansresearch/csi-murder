@@ -17,7 +17,7 @@ Tested on a Ettus USRP N300.
 
 - [Device Free Indoor Localization](https://github.com/ansresearch/csi-murder/tree/master/device-free-localization):
 
-Trains a simple convolutinal neural network (CNN) to localize one human inside a room by exploiting CSI of received packets only.
+Trains a simple convolutional neural network (CNN) to localize one human inside a room by exploiting CSI of received packets only.
 More details on this project can be found in the master thesis [Device-Free Indoor Localization: A User-Privacy Perspective](http://dx.doi.org/10.13140/RG.2.2.25468.56965).
 			
 ### Usage
